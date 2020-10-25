@@ -1,1 +1,3 @@
-b
+function saludo() {
+  alert("hola alumnos");
+}
